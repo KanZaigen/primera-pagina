@@ -1,0 +1,17 @@
+#nav {
+    /* background-color: #FF6D28; */
+    font-size: 35px;
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+}
+#nav a {
+    text-decoration: none;
+    padding: 10px;
+    font-family: 'Libre Baskerville', serif;
+    padding: 40px;
+}
+#nav a:hover {
+    background-color: #EA047E;
+}
+

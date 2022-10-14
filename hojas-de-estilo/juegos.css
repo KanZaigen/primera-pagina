@@ -1,0 +1,14 @@
+#juegos {
+    color: #A8E890;
+    background: url("https://images.unsplash.com/photo-1604948501466-4e9c339b9c24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YWplZHJlenxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60");
+    padding: 15px;
+    box-sizing: border-box;
+    padding: 30px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#juegos:hover {
+    transform: scale(1.5);
+}

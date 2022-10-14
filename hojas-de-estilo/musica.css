@@ -1,0 +1,13 @@
+#musica {
+    color: black;
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.4), rgba(255, 255, 255, 0.4)),url("https://images.unsplash.com/photo-1511379938547-c1f69419868d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bXVzaWNhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    padding: 15px;
+    box-sizing: border-box;
+    padding: 30px;
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#musica:hover {
+    transform: rotate(25deg);
+}

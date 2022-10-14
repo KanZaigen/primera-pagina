@@ -1,0 +1,41 @@
+/* #programacion {
+    background: url("https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZ3JhbWFjaW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    padding: 15px;
+    background-repeat: no-repeat;
+    box-sizing: border-box;
+    background-size: cover;
+} */
+
+#programacion{
+    position: relative;
+    background-size: cover;
+    transition: 1500ms;
+    transform-style: preserve-3d;
+}
+
+#card-front {
+    transform: perspective(600px) rotateY(0deg);
+    background-repeat: no-repeat;
+    background-size: cover;   
+    position: absolute;
+}
+
+#card-back {
+    background-color: white;
+    transform: perspective(600px) rotateY(90deg);
+    padding: 20px;
+    position: absolute;
+}
+
+#programacion:hover #card-front {
+    transform: perspective(600px) rotateY(180deg);
+    visibility: hidden;
+}
+
+#programacion:hover #card-back {
+    transform: perspective(600px) rotateY(360deg);
+}
+
+
+
+

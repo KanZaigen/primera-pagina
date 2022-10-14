@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Proyecto Personal2</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header id="nav">
+      <a href="#home">Home</a>
+      <a href="https://youtu.be/eFTLKWw542g" target="_blank">Canal</a>
+      <a href="#contacto">Contacto</a>
+      <a href="https://youtu.be/NjywyfQAsy4">Servicios</a>
+      <a href="#about">About</a>
+    </header>
+
+    <div id="home">
+      <h2>Mi nombre es Kan-Zaigen</h2>
+      <p>
+        Hola esta pagina es una pagina de practica, que espero que en el momento
+        en el que vuelva revisarla pueda <strong>hacer cosas mejores</strong>.
+        Algunos de mis gustos se encuentra aqui, los enlaces son solo para
+        practicar. En realidad esta no es una pagina sobre mi, si no mas bien es
+        solo para practicar, ahí el porque de los enlaces y todo lo demas.
+      </p>
+    </div>
+
+    <section class="texto">
+      <img
+        src="https://images.unsplash.com/photo-1534142499731-a32a99935397?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cGFpc2FqZSUyMHZlcnRpY2F8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+        alt="Aqui va una imagen"
+      />
+      <aside>
+        <h2>About Me</h2>
+        Me gustan distintas cosas, siempre intento mantener mi cerebro ocupado
+        en algo. Me gustan practicar distintas cosas diferentes entre si, para
+        mejorar mis conexiones neuronales. Algunas de esas cosas son por
+        ejemplo: Leer, Escribir, Armar Rompecabezas, Jugar Ajedrez, Practicar
+        Idiomas.
+        <li>Nombre : Kan-Zaigen</li>
+        <li>Edad : 19</li>
+        <li>
+          Direccion : Via Lactea, Galixia Anndrómeda, Planeta Tricton,
+          Distrito20
+        </li>
+        <li>Phone : +502 7560 8590</li>
+        <li>e-mail : email@gmail.com</li>
+      </aside>
+    </section>
+
+    <section id="gustos">
+      <h2 id="subtitulo">Mis gustos</h2>
+
+      <article id="article">
+        
+        <div id="musica">
+          <h2>Música</h2>
+          <p>
+            La música (del griego: μουσική [τέχνη] - mousikē [téchnē], «el arte
+            de las musas») es, según la definición tradicional del término, el
+            arte de crear y organizar sonidos y silencios respetando los
+            principios fundamentales de la melodía, la armonía y el ritmo,
+            mediante la intervención de complejos procesos psicoanímicos. El
+            concepto de música ha ido evolucionando desde su origen en la
+            Antigua Grecia, en que se reunía sin distinción a la poesía, la
+            música y la danza como arte unitario. Desde hace varias décadas se
+            ha vuelto más compleja la definición de qué es y qué no es la
+            música, ya que destacados compositores en el marco de diversas
+            experiencias artísticas fronterizas han realizado obras que, si bien
+            podrían considerarse musicales, expanden los límites de la
+            definición de este arte.
+          </p>
+        </div>
+        <div id="lectura">
+          <h2>Lectura</h2>
+          <p>
+            La lectura es una actividad que consiste en interpretar y descifrar,
+            mediante la vista, el valor fónico de una serie de signos escritos,
+            ya sea mentalmente (en silencio) o en voz alta (oral). Esta
+            actividad está caracterizada por la traducción de símbolos o letras
+            en palabras y frases dotadas de significado, una vez descifrado el
+            símbolo se pasa a reproducirlo. Es hacer posible la interpretación y
+            comprensión de los materiales escritos, evaluarlos y usarlos para
+            nuestras necesidades.
+          </p>
+        </div>
+        <div id="juegos">
+          <h2>Juegos</h2>
+          <p>
+            Son distintos juegos que ayudan a mejorar las conexiones neuronales,
+            forzandolos a tomar deciciones analitizas que los lleven a a
+            capacitar y reflexionar para poder resolver las preguntas o
+            acertijos en los cuales uno se encuentre. Este tipo de juego tambien
+            ayuda a disminuir el estres y activa ciuertas sonas del cerebro que
+            en condiciones normales no son muy utilizados.
+          </p>
+        </div>
+        <div id="cine">
+          <h2>Cine</h2>
+          <p>
+            El cine es un arte y una técnica. Es el arte de narrar historias
+            mediante la proyección de imágenes, de allí que también se lo
+            conozca con el nombre de séptimo arte. Y es la técnica que consiste
+            en proyectar fotogramas, de forma rápida y sucesiva, para crear la
+            ilusión de movimiento. Para la realización del cine es necesaria la
+            concurrencia de muchas otras capacidades a nivel técnico, creativo y
+            financiero, como el montaje, la fotografía, la dirección, el
+            guionismo, la operación de cámaras, el sonido, la producción, etc.,
+            para lo cual es necesario todo un equipo de trabajo. Asimismo, pasa
+            por varias etapas: el desarrollo, la preproducción, el rodaje, la
+            posproducción y la distribución.
+          </p>
+        </div>
+        <div id="filosofia">
+          <h2>Filosofia</h2>
+          <p>
+            Filosofía es un conjunto de razonamientos lógicos y metódicos sobre
+            conceptos abstractos que tratan de explicar las causas y fines de la
+            verdad, la realidad, las experiencias y nuestra existencia. La
+            palabra filosofía deriva del griego φιλοσοφία y del latín
+            philosophia, que al parecer fue acuñada por Pitágoras en la Antigua
+            Grecia, y significa 'amor por la sabiduría' o 'amigo de la
+            sabiduría'. Con este término también se nombran las teorías y
+            sistemas de pensamiento desarrollados por uno o más autores dentro
+            de este campo. La filosofía se originó paralelamente tanto en
+            Occidente como en Oriente. Sin embargo, presentan diferencias en los
+            métodos de pensamiento y percepción del mundo, del ser humano y de
+            la verdad.
+          </p>
+        </div>
+        <div id="programacion">
+          <h2>Programacion</h2>
+          <p>
+            La programación informática es el arte del proceso por el cual se
+            limpia, codifica, traza y protege el código fuente de programas
+            computacionales, en otras palabras, es indicarle a la computadora lo
+            que tiene que hacer. La programación informática es una de las
+            habilidades esenciales que aprendes cuando estudias informática.
+            Detrás de todos los programas informáticos que conocemos y usamos de
+            manera cotidiana para facilitarnos diversas actividades de nuestro
+            día con día, existe todo un proceso para poderlos crear. Este
+            proceso es conocido como programación, conozcamos un poco más sobre
+            lo que conlleva este proceso. Por medio de la programación se
+            establecen los pasos a seguir para la creación del código fuente de
+            los diversos programas informáticos. Este código le indicara al
+            programa informático que tiene que hacer y como realizarlo.
+          </p>
+        </div>
+
+      </article>
+    </section>
+
+    <script src="index.js"></script>
+  </body>
+</html>
